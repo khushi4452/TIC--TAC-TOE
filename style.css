@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: blueviolet;
+    background: linear-gradient(to right, #33ccff 0%, #00ffcc 100%);
     text-align: center;
     color:#fff;
 
