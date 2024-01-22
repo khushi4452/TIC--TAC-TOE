@@ -47,3 +47,26 @@ body {
     border-radius: 10px;
     border: none;
 }
+
+.msg-container {
+  height: 30vmin;
+}
+
+#new-btn {
+    padding: 1rcm;
+    font-size: 1.25rcm;
+    background-color: black;
+    color:#fff;
+    border-radius: 1rcm;
+    border:none;
+}
+#msg {
+    color:#fff;
+    font-size: 8vm;
+}
+
+    .hide {
+display: none;
+    }
+
+    
